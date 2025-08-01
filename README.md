@@ -33,5 +33,3 @@ curl -X POST "http://3.133.133.67:8000/environments/<env_id>/reset"
 ## Notes
 Returned site URLs look like `http://3.133.133.67:<random-port>` (30000 and 30100) and can be opened directly in a browser.
 Post‑config fixes Magento/GitLab so they do not redirect to default hostnames.
-- Returned site URLs look like `http://3.133.133.67:<random-port>` (30000 and 30100) and can be opened directly in a browser.
-- Post‑config fixes Magento/GitLab so they do not redirect to default hostnames.
